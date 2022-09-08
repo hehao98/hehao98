@@ -9,7 +9,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
-## I am proud of the following GitHub repositories I have contributed to
+## I am proud of having contributed to the following GitHub repositories
 
 ### Research Projects
 
