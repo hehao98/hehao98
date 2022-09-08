@@ -35,10 +35,10 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ### Course Projects
 
 <a href="https://github.com/hehao98/RISCV-Simulator">
-  <img align="center" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=RISCV-Simulator&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=RISCV-Simulator&show_owner=true" />
 </a>
 <a href="https://github.com/hehao98/PointerAnalysis">
-  <img align="center" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=PointerAnalysis&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=PointerAnalysis&show_owner=true" />
 </a>
 <a href="https://github.com/hehao98/SNN-Balancing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=SNN-Balancing&show_owner=true" />
