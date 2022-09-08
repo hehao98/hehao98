@@ -2,7 +2,10 @@
 
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. 
 
-[Personal Website](https://hehao98.github.io/) [LinkedIn](https://www.linkedin.com/in/hao-he-91760b140/) [Email](mailto://heh@pku.edu.cn)
+[Personal Website](https://hehao98.github.io/) 
+[LinkedIn](https://www.linkedin.com/in/hao-he-91760b140/) 
+[Email](mailto://heh@pku.edu.cn)
+[Twitter](https://twitter.com/HaoHe93102943)
 
 <a href="https://github.com/hehao98">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
@@ -25,7 +28,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![pandas](https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikitlearn)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark)
