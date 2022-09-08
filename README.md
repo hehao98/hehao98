@@ -14,22 +14,22 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ### Research Projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=gfi-bot&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=gfi-bot&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=mcxwx123&repo=RecGFI&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcxwx123&repo=RecGFI&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=LibraryMigration" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=LibraryMigration&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=MigrationHelper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=MigrationHelper&show_owner=true" />
 </a>
 
 ### University Courses
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=OSSDevelopment&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=OSSDevelopment&show_owner=true" />
 </a>
 
 ### Course Projects
