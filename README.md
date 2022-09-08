@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. [Personal Website](https://hehao98.github.io/).
 
@@ -9,9 +9,9 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
-### I am proud to have contributed to the following GitHub repositories
+## I am proud to have contributed to the following GitHub repositories
 
-#### Research Projects
+### Research Projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=LibraryMigration" />
@@ -26,8 +26,8 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
   <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=gfi-bot&show_owner=true" />
 </a>
 
-#### University Courses
+### University Courses
 
-#### Course Projects
+### Course Projects
 
 
