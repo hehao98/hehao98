@@ -2,10 +2,10 @@
 
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. [Personal Website](https://hehao98.github.io/).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
@@ -35,10 +35,10 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ### Course Projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=RISCV-Simulator&show_owner=true" />
+  <img align="center" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=RISCV-Simulator&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=PointerAnalysis&show_owner=true" />
+  <img align="center" width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=PointerAnalysis&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=SNN-Balancing&show_owner=true" />
