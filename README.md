@@ -2,10 +2,11 @@
 
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. 
 
-[Personal Website](https://hehao98.github.io/) 
-[LinkedIn](https://www.linkedin.com/in/hao-he-91760b140/) 
-[Email](mailto://heh@pku.edu.cn)
-[Twitter](https://twitter.com/HaoHe93102943)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hehao98.github.io/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-he-91760b140/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://heh@pku.edu.cn)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaoHe93102943)
+[![](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eL6RHssAAAAJ&hl=en)
 
 <a href="https://github.com/hehao98">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
@@ -34,7 +35,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=apachespark)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat-square&logo=opengl)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-![Cocos Creater](https://img.shields.io/badge/-CocosCreator-black?style=flat-square&logo=cocos)
+![Cocos Creater](https://img.shields.io/badge/-Cocos_Creator-black?style=flat-square&logo=cocos)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
