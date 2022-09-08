@@ -2,11 +2,11 @@
 
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. [Personal Website](https://hehao98.github.io/).
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
+<a href="https://github.com/hehao98">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
 </a>
-<a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
+<a href="https://github.com/hehao98">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
 ## I am proud to have contributed to the following GitHub repositories
