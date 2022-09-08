@@ -11,7 +11,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
-## Skills and Technologies
+## Skills
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
