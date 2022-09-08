@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**hehao98/hehao98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. This is my [Personal Website](https://hehao98.github.io/).
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am proud to have contributed to the following GitHub repositories
+
+#### Research Projects
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=LibraryMigration" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=MigrationHelper" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mcxwx123&repo=RecGFI&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=osslab-pku&repo=gfi-bot&show_owner=true" />
+</a>
+
+#### University Courses
+
+#### Course Projects
+
+
