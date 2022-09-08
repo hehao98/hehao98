@@ -34,4 +34,22 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 
 ### Course Projects
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=RISCV-Simulator&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=PointerAnalysis&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=SNN-Balancing&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=QualityCampusTheGame&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=ShootGame&show_owner=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=WaterRendering&show_owner=true" />
+</a>
 
