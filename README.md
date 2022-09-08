@@ -3,10 +3,10 @@
 I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. [Personal Website](https://hehao98.github.io/).
 
 <a>
-  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
+  <img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=hehao98&count_private=true&show_icons=true" />
 </a>
 <a">
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
+  <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hehao98&layout=compact&hide=html&langs_count=8" />
 </a>
 
 ## I am proud to have contributed to the following GitHub repositories
