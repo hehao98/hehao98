@@ -24,6 +24,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
