@@ -23,6 +23,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
