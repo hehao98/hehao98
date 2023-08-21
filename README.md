@@ -46,7 +46,7 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![Chinese](https://img.shields.io/badge/-简体中文-black?style=flat-square)
 ![Japanese](https://img.shields.io/badge/-日本語-black?style=flat-square)
 
-<! -- 
+<!-- 
 
 ## I am proud of having contributed to the following GitHub repositories
 
