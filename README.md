@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Peking University. 
+I am Hao He (何昊, the “He” is pronounced like “Her” without “r”), currently a Ph.D. student at Carnegie Mellon University. 
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hehao98.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hao-he-91760b140/)
@@ -46,6 +46,8 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
 ![Chinese](https://img.shields.io/badge/-简体中文-black?style=flat-square)
 ![Japanese](https://img.shields.io/badge/-日本語-black?style=flat-square)
 
+<! -- 
+
 ## I am proud of having contributed to the following GitHub repositories
 
 ### Research Projects
@@ -90,3 +92,4 @@ I am Hao He (何昊, the “He” is pronounced like “Her” without “r”),
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hehao98&repo=WaterRendering&show_owner=true" />
 </a>
 
+-->
